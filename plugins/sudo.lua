@@ -4,16 +4,16 @@
 #         SudoPlugin           #
 #                              #
 #                              #
-#   by @This_Is_Amir "Amir"    #
+#   by @shah_telam_baw "Amir"  #
 #                              #
 #                              #
-#   Modified by @OFFLINETEAM   #
-#	                           #
+#   Modified by @heh_i         #
+#	                             #
 #                              #
 #     Update: 4 August 2016    #
 #                              #
 #                              #
-#           @JustLua           #
+#    @shah_telam_baw           #
 #                              #
 ################################
 ]]
